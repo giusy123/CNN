@@ -1,0 +1,7 @@
+Confusion matrix for: 10 clusters 
+[[10392  2441]
+ [ 1124  8587]]
+0.8418647977288858
+Time for train autoencoder 1 77.04474568367004 
+ Time for preprocessing clustering 57.20961356163025 
+Time for train classifier 57.49138379096985  
